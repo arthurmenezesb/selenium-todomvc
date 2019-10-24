@@ -1,0 +1,23 @@
+{
+  "name": "selenium-todomvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurmenezesb/selenium-todomvc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurmenezesb/selenium-todomvc/issues"
+  },
+  "homepage": "https://github.com/arthurmenezesb/selenium-todomvc#readme",
+  "dependencies": {
+    "chromedriver": "^77.0.0",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}
